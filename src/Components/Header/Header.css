@@ -1,0 +1,107 @@
+
+.navbarHeader {
+    width: '100%';
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.pageList {
+    display: flex;
+    height: inherit;
+    width: 50%;
+    flex-direction: row;
+    font-size: small;
+    list-style: none;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.link {
+    text-decoration: none;
+    color: #ffffff90;
+    font-weight: bold;
+    height: 95%;
+    display: flex;
+    align-items: center;
+}
+.link:hover {
+    color: #ffff;
+}
+.logContainer{
+    width: 20%;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-right: 3px solid #ffffff55;
+    justify-content: space-evenly;
+}
+.subscribeBtn {
+    height: 80%;
+    color: #ffff;
+    background-color: #2242D8;
+    border: none;
+    border-radius: 5px;
+    padding: 0px 10px;
+    font-weight: bold;
+}
+.logo {
+    height: 90%;
+}
+.user {
+    height: 90%;
+    width: 30%;
+}
+.userContainer {
+    height: inherit;
+    width: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.subContainer {
+    height: inherit;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    align-items: center;
+}
+
+/* media query*/
+@media only screen and (max-width: 700px) {
+    .pageList {
+      display: none;
+    }
+    .moreBtn{
+        display: block;
+    }
+    .moreItem{
+        display: flex;
+    }
+    .title{
+        font-size: 10px;
+    }
+    .cardItem p {
+        font-size: 10px;
+    }
+    .Txt{
+    display: none;
+    }
+  }
+
+@media only screen and (max-width: 900px) {
+    .subscribeBtn {
+        display: none;
+    }
+    .link{
+        font-size: 10px;
+    }
+  }
+  

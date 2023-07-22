@@ -1,0 +1,64 @@
+
+.cardImg {
+    width: 150px;
+    height: 220px;
+    border-radius: 15px;
+    margin: 0 5px;
+    transition: transform .1s;
+}
+
+.cardImg:hover {
+    transform: scale(1.1);
+}
+
+.titleCard1{
+    color: #ffff;
+    margin: 5px 30px;
+    text-align: start;
+    font-weight: bold;
+}
+.card-list {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+.imgCardContainer {
+    width: 100%;
+    padding: 20px 30px;
+    display: flex;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+.pre-btn-arrow, .next-btn-arrow {
+    border: none;
+    width: 60px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0);
+}
+.next-btn-arrow {
+    right: 0;
+}
+
+.pre-btn-arrow .arrow, .next-btn-arrow .arrow {
+    font-size: 50px;
+    background-color: rgba(0, 0, 0, 0.4);
+    box-shadow: 0px 0px 10px 1px black;
+    border-radius: 10px;
+    color: rgb(173, 172, 172);
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.imgSlidContainer{
+    margin: 15px 0px;
+    width: 100%;
+}

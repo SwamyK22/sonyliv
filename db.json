@@ -1,0 +1,574 @@
+{
+  "admin": {
+    "userName": "admin@sonyliv.com",
+    "password": "admin123"
+  },
+  "moviesDb": [
+    {
+      "id": 1036561,
+      "title": "Shadow Master",
+      "imgUrl": "https://image.tmdb.org/t/p/original/67ZsRKbItt6B1yHlsJKgfPWOyuJ.jpg",
+      "overView": "When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidden powers, he discovers he might be the only person alive who can protect a reincarnated goddess, sent to watch over humanity. Can he let his past go and embrace his destiny to become a Knight of the Zodiac?",
+      "rating": 6.8
+    },
+    {
+      "id": 204553,
+      "title": "Cold Eyes",
+      "imgUrl": "https://image.tmdb.org/t/p/original/i1a1rk2qPrxIF5pYyBB2oSTa6OR.jpg",
+      "overView": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+      "rating": 7.5
+    },
+    {
+      "id": 1010581,
+      "title": "My Fault",
+      "imgUrl": "https://image.tmdb.org/t/p/original/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+      "overView": "Noah must leave her city, boyfriend, and friends t…nalities becomes evident from the very beginning. who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "rating": 8.3
+    },
+    {
+      "id": 447277,
+      "title": "The Little Mermaid",
+      "imgUrl": "https://image.tmdb.org/t/p/original/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+      "overView": "Guardians of the Galaxy Vol. Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+      "rating": 6.3
+    },
+    {
+      "id": 917007,
+      "title": "Bed Rest",
+      "imgUrl": "https://image.tmdb.org/t/p/original/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg",
+      "overView": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey across the state in order to rescue his estranged daughter.",
+      "rating": 6.8
+    },
+    {
+      "id": 76600,
+      "title": "Avatar: The Way of Water",
+      "imgUrl": "https://image.tmdb.org/t/p/original/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "overView": "Insidious: The Last Key,Parapsychologist Elise Rainier and her team travel to Five Keys, NM, to investigate a man’s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family’s old home.",
+      "rating": 7.7
+    },
+    {
+      "id": 986070,
+      "title": "The Wrath of Becky",
+      "imgUrl": "https://image.tmdb.org/t/p/original/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg",
+      "overView": "Spider-Man: Across the Spider-Verse, After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat.",
+      "rating": 6.9
+    },
+    {
+      "id": 543504,
+      "title": "Detective vs. Sleuths",
+      "imgUrl": "https://image.tmdb.org/t/p/original/sNAeYA5EZ7ouoHnVxQ0vMbfgiEi.jpg",
+      "overView": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "rating": 6.5
+    },
+    {
+      "id": 298618,
+      "title": "The Flash",
+      "imgUrl": "https://image.tmdb.org/t/p/original/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "overView": "To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.",
+      "rating": 6.7
+    },
+    {
+      "id": 890771,
+      "title": "The Black Demon",
+      "imgUrl": "https://image.tmdb.org/t/p/original/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",
+      "overView": "Oilman Paul Sturges idyllic family vacation turns…in in this epic battle between humans and nature When Hong Kong is rocked by multiple gruesome murders, the police forms a task force to investigate. Jun, once a brilliant detective who suffered a mental breakdown.",
+      "rating": 6.2
+    },
+    {
+      "id": 1129956,
+      "title": "iNumber Number: Jozi Gold",
+      "imgUrl": "https://image.tmdb.org/t/p/original/7uJkLigRamfHerFSkfFOCMqH0pi.jpg",
+      "overView": "When an undercover cop is tasked with investigatin…ced to choose between his conscience and the law When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidden powers, he discovers he might be the only person alive who can protect a reincarnated goddess.",
+      "rating": 6.1
+    },
+    {
+      "id": 713704,
+      "title": "Evil Dead Rise",
+      "imgUrl": "https://image.tmdb.org/t/p/original/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+      "overView": "A reunion between two estranged sisters gets cut s…he most nightmarish version of family imaginable. A life of an ordinary Parisian teenager Marinette goes superhuman when she becomes Ladybug. Bestowed with magical powers of creation, Ladybug must unite with her opposite",
+      "rating": 7
+    },
+    {
+      "id": 536437,
+      "title": "Hypnotic",
+      "imgUrl": "https://image.tmdb.org/t/p/original/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",
+      "overView": "A detective becomes entangled in a mystery involvi…investigating a string of reality-bending crimes.Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "rating": 6.3
+    },
+    {
+      "id": 678512,
+      "title": "Sound of Freedom",
+      "imgUrl": "https://image.tmdb.org/t/p/original/mx4O9OEvIB265VM3UATLslsSW5t.jpg",
+      "overView": "The story of Tim Ballard, a former US government a…to rescuing children from global sex traffickers. Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary.",
+      "rating": 8.7
+    },
+    {
+      "id": 882569,
+      "title": "Guy Ritchie's The Covenant",
+      "imgUrl": "https://image.tmdb.org/t/p/original/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+      "overView": "During the war in Afghanistan, a local interpreter…njured sergeant across miles of grueling terrain. who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "rating": 7.8
+    },
+    {
+      "id": 1130818,
+      "title": "Sheroes",
+      "imgUrl": "https://image.tmdb.org/t/p/original/itUAkQmihFmRxMYTa3AkvIzMCV4.jpg",
+      "overView": "When four thick-as-thieves friends arrive in Thail…e loyalty in a heart-pumping battle for survival. Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "rating": 4.7
+    },
+    {
+      "id": 640146,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "imgUrl": "https://image.tmdb.org/t/p/original/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "overView": "Super-Hero partners Scott Lang and Hope van Dyne, … beyond the limits of what they thought possible. Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary.",
+      "rating": 6.5
+    },
+    {
+      "id": 346698,
+      "title": "Barbie",
+      "imgUrl": "https://image.tmdb.org/t/p/original/cgYg04miVQUAG2FKk3amSnnHzOp.jpg",
+      "overView": "Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary Parisian teenager Marinette goes superhuman when she becomes Ladybug. Bestowed with magical powers of creation, Ladybug must unite with her opposite",
+      "rating": 0
+    },
+    {
+      "id": 758323,
+      "title": "The Pope's Exorcist",
+      "imgUrl": "https://image.tmdb.org/t/p/original/gNPqcv1tAifbN7PRNgqpzY8sEJZ.jpg",
+      "overView": "Father Gabriele Amorth, Chief Exorcist of the Vati…the Vatican has desperately tried to keep hidden. Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary.",
+      "rating": 7.2
+    },
+    {
+      "id": 335977,
+      "title": "Indiana Jones and the Dial of Destiny",
+      "imgUrl": "https://image.tmdb.org/t/p/original/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+      "overView": "Finding himself in a new era, approaching retireme…erful artifact doesn't fall into the wrong hands. Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "rating": 6.6
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Ahead of France visit, PM Modi bats for dialogue and diplomacy to end Russia-Ukraine conflict",
+      "imgUrl": "https://resize.indiatvnews.com/en/resize/newbucket/730_-/2023/07/pm-1689231061.jpg",
+      "overView": "In a recent interview with a foreign media, Prime Minister Narendra Modi dwelled on several issues the world is facing at present. Ahead of his France visit, the Prime Minister spoke at length to the French newspaper Les Echos on matters such as the Russia-Ukraine war,",
+      "rating": 6.8
+    },
+    {
+      "id": 2,
+      "title": "Avatar: The Way of Water",
+      "imgUrl": "https://image.tmdb.org/t/p/original/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
+      "overView": "Insidious: The Last Key,Parapsychologist Elise Rainier and her team travel to Five Keys, NM, to investigate a man’s claim of a haunting. Terror soon strikes when Rainier realizes that the house he lives in was her family’s old home.",
+      "rating": 7.7
+    },
+    {
+      "id": 3,
+      "title": "The Wrath of Becky",
+      "imgUrl": "https://image.tmdb.org/t/p/original/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg",
+      "overView": "Spider-Man: Across the Spider-Verse, After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat.",
+      "rating": 6.9
+    },
+    {
+      "id": 4,
+      "title": "Detective vs. Sleuths",
+      "imgUrl": "https://image.tmdb.org/t/p/original/sNAeYA5EZ7ouoHnVxQ0vMbfgiEi.jpg",
+      "overView": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "rating": 6.5
+    },
+    {
+      "id": 9,
+      "title": "Ahead of France visit, PM Modi bats for dialogue and diplomacy to end Russia-Ukraine conflict",
+      "imgUrl": "https://image.tmdb.org/t/p/original/fUbx2NFwRTmRMtwcTbzEd804WQj.jpg",
+      "overView": "In a recent interview with a foreign media, Prime Minister Narendra Modi dwelled on several issues the world is facing at present. Ahead of his France visit, the Prime Minister spoke at length to the French newspaper Les Echos on matters such as the Russia-Ukraine war,",
+      "rating": 6.8
+    },
+    {
+      "id": 5,
+      "title": "The Flash",
+      "imgUrl": "https://image.tmdb.org/t/p/original/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "overView": "To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.",
+      "rating": 6.7
+    },
+    {
+      "id": 6,
+      "title": "The Black Demon",
+      "imgUrl": "https://image.tmdb.org/t/p/original/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",
+      "overView": "Oilman Paul Sturges idyllic family vacation turns…in in this epic battle between humans and nature When Hong Kong is rocked by multiple gruesome murders, the police forms a task force to investigate. Jun, once a brilliant detective who suffered a mental breakdown.",
+      "rating": 6.2
+    },
+    {
+      "title": ".sdckjikdj;k",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/wwesmackdown2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "dfjdioS NIJEIDIEFH",
+      "id": 1689250126940
+    },
+    {
+      "title": "Raju",
+      "imgUrl": "https://images.slivcdn.com/portrait_thumb/Lincoln_Portrait_Thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "wdfgbnm,",
+      "id": 1689250337600
+    },
+    {
+      "title": "sss",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/thewhale_multi_lang_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "ss",
+      "id": 1689250849959
+    },
+    {
+      "title": "Shiva shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/Jerry_Maguire_Portrait_Thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "a",
+      "id": 1689251082175
+    },
+    {
+      "title": "xxxx",
+      "imgUrl": "xxx",
+      "rating": 1,
+      "overView": "sdwd",
+      "id": 1689422120265
+    },
+    {
+      "title": "swamy",
+      "imgUrl": "dddddddd",
+      "rating": 1,
+      "overView": "asaadd",
+      "id": 1689422150781
+    },
+    {
+      "title": "ssaa",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "ss",
+      "id": 1689572801096
+    },
+    {
+      "title": "shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "as",
+      "id": 1689574640133
+    },
+    {
+      "title": "shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "as",
+      "id": 1689574642799
+    },
+    {
+      "title": "shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "as",
+      "id": 1689574643492
+    },
+    {
+      "title": "shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "as",
+      "id": 1689574643677
+    },
+    {
+      "title": "shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "as",
+      "id": 1689574643865
+    },
+    {
+      "title": "shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "as",
+      "id": 1689574644050
+    },
+    {
+      "title": "shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "as",
+      "id": 1689574644234
+    },
+    {
+      "title": "shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "as",
+      "id": 1689574644426
+    },
+    {
+      "title": "shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "as",
+      "id": 1689574644610
+    },
+    {
+      "title": "shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "as",
+      "id": 1689574644806
+    },
+    {
+      "title": "shiva",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "as",
+      "id": 1689574644990
+    }
+  ],
+  "sports": [
+    {
+      "id": 536437,
+      "title": "Hypnotic",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/bestofashes2023_3rdtest_10july_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "A detective becomes entangled in a mystery involvi…investigating a string of reality-bending crimes.Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "rating": 6.3
+    },
+    {
+      "id": 678512,
+      "title": "Sound of Freedom",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/nxt2023_chase_hudson_vs_drew_dempsey_11july_replay_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "The story of Tim Ballard, a former US government a…to rescuing children from global sex traffickers. Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary.",
+      "rating": 8.7
+    },
+    {
+      "id": 882569,
+      "title": "Pakistan Tour of Sri Lanka 2023",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/sl_vs_pak_tests2023_10july_dated_promo_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "During the war in Afghanistan, a local interpreter…njured sergeant across miles of grueling terrain. who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "rating": 7.8
+    },
+    {
+      "id": 1130818,
+      "title": "WWE Smack Down",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/wwe_smack_down_roman_reigns_live_7july_portrait_thumb_replay.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "When four thick-as-thieves friends arrive in Thail…e loyalty in a heart-pumping battle for survival. Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "rating": 4.7
+    },
+    {
+      "id": 640146,
+      "title": "Vitality Blast-2023 Semi Final",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/vitalityblast2023_sf_prom0_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "Super-Hero partners Scott Lang and Hope van Dyne, … beyond the limits of what they thought possible. Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary.",
+      "rating": 6.5
+    },
+    {
+      "id": 346698,
+      "title": "European Qaulifiers",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/eqforuefaeuro2024gob_portrait_thumb1_1.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary Parisian teenager Marinette goes superhuman when she becomes Ladybug. Bestowed with magical powers of creation, Ladybug must unite with her opposite",
+      "rating": 0
+    },
+    {
+      "id": 758323,
+      "title": "The Ashes 2023. Australia Tour of England",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ashes23_3rdtest_gob_portrait_thumb_notext.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "Father Gabriele Amorth, Chief Exorcist of the Vati…the Vatican has desperately tried to keep hidden. Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary.",
+      "rating": 7.2
+    },
+    {
+      "id": 75832,
+      "title": "Australia Womens Tour of England 2023",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/eng_vs_aus_womens2023_1stodi_13july_hls_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "Father Gabriele Amorth, Chief Exorcist of the Vati…the Vatican has desperately tried to keep hidden. Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary.",
+      "rating": 7.2
+    },
+    {
+      "id": 882560,
+      "title": "WWE Womens Championship",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/wwe_smackdown_womenschampionship_13july_promo_portrait_thumb_replay.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "During the war in Afghanistan, a local interpreter…njured sergeant across miles of grueling terrain. who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "rating": 7.8
+    },
+    {
+      "id": 53643722,
+      "title": "Ashes 2023",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/bestofashes2023_3rdtest_10july_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "A detective becomes entangled in a mystery involvi…investigating a string of reality-bending crimes.Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "rating": 6.3
+    },
+    {
+      "id": 113081,
+      "title": "UEFA Nations League",
+      "imgUrl": "https://images.slivcdn.com/portrait_thumb/UEFANationsLeague22GOB_Portrait_Thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "When four thick-as-thieves friends arrive in Thail…e loyalty in a heart-pumping battle for survival. Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "rating": 4.7
+    },
+    {
+      "id": 758324,
+      "title": "Australia Tour of England 2023",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/theashes2023_4thtestday1_14july_ddt_promo_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "Father Gabriele Amorth, Chief Exorcist of the Vati…the Vatican has desperately tried to keep hidden. Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary.",
+      "rating": 7.2
+    },
+    {
+      "id": 6785122,
+      "title": "UEFA Erope League",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/uel23finalgob_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "overView": "The story of Tim Ballard, a former US government a…to rescuing children from global sex traffickers. Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary.",
+      "rating": 8.7
+    },
+    {
+      "title": "swamu",
+      "imgUrl": "https://images.slivcdn.com/videoasset_images/ufc2023_1_portrait_thumb.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+      "rating": 1,
+      "overView": "sddff",
+      "id": 1689572777552
+    }
+  ],
+  "tvShows": [
+    {
+      "id": 209265,
+      "title": "Terra e Paixão",
+      "overView": "A detective becomes entangled in a mystery involvi…investigating a string of reality-bending crimes.Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/voaKRrYExZNkf1E4FZExU7fTd8w.jpg",
+      "rating": 5.8
+    },
+    {
+      "id": 94722,
+      "title": "Tagesschau",
+      "overView": "German daily news program, the oldest still existing program on German television.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+      "rating": 7.2
+    },
+    {
+      "id": 213713,
+      "title": "Faltu",
+      "overView": "What's in a title? Amidst the arid landscape of Rajasthan, a young woman with dreamy eyes struggles to prove her worth.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/lgyFuoXs7GvKJN0mNm7z7OMOFuZ.jpg",
+      "rating": 5.5
+    },
+    {
+      "id": 215315,
+      "title": "Rabb Se Hai Dua",
+      "overView": "Dua and her husband are a perfect married couple in the eyes of their family. However, Dua’s life turns upside down when her husband seeks her permission to marry another woman.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/6ikbefd7VeopbBuGgioYMNU5bQj.jpg",
+      "rating": 4.3
+    },
+    {
+      "id": 215103,
+      "title": "Teri Meri Doriyaann",
+      "overView": "It’s hate at first sight for Sahiba and Angad! But destined to be together, their lives get intertwined by a marriage alliance, and a love-hate story ensues.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/4BHDmYiuSnNL3nqKIOzLJKYX4AN.jpg",
+      "rating": 5.8
+    },
+    {
+      "id": 215803,
+      "title": "Batang Quiapo",
+      "overView": "A young man rises to be one of the biggest outlaws in the neighborhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/9McqS8mgMf5NJCAKZIY6J1oOl8y.jpg",
+      "rating": 6.5
+    },
+    {
+      "id": 215902,
+      "title": "Katha Ankahee",
+      "overView": "Katha, a single parent, is in need of funds for her son's medical treatment. She comes across Viaan, who offers help but his conditions put her in an awkward situation.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/uhXU0SMPMlemKGHmwbldM60qqmW.jpg",
+      "rating": 6.9
+    },
+    {
+      "id": 216390,
+      "title": "Woman in a Veil",
+      "overView": "Jung Gyul Wool loses her vision and ability to walk because of her materialistic husband and his mistress. Despite her shortcomings, she hatches a plot to seek revenge.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/5ERr09UrnVm0hdXBeefNVtQMxI.jpg",
+      "rating": 5.9
+    },
+    {
+      "id": 222100,
+      "title": "Meant To Be",
+      "overView": "The work depicts the lives of two women, Lee Hae In, and Kang Se Na, who fell into different fates as children.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/xdzSO56WueBMW45QHWemV3D6mzJ.jpg",
+      "rating": 5.8
+    },
+    {
+      "id": 209117,
+      "title": "Never Give Up",
+      "overView": "Sol is a hardworking woman who has the chance to work as a backing vocalist for a funk singer and return to dancing, as she did in her youth. Torn between family pressure and passion for the stage, she must face the judgment of her church's members and conflicts with her family. The new chance will make her reconnect with her past in many ways, leading her to find her great youth love.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/6QNohzb7YUJ6eWZkXAYU8KGIq.jpg",
+      "rating": 7.6
+    },
+    {
+      "id": 202250,
+      "title": "Dirty Linen",
+      "overView": "To exact vengeance, a young woman infiltrates the household of an influential family as a housemaid to expose their dirty secrets. However, love will get in the way of her revenge plot.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/aoAZgnmMzY9vVy9VWnO3U5PZENh.jpg",
+      "rating": 5.6
+    },
+    {
+      "id": 113218,
+      "title": "Imlie",
+      "overView": "All Imlie wanted was to create a title for herself in the city. But upon her arrival, she finds herself caught in the middle of Aditya and Malini's love story.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/sltUDXvpDZK3aVIdtkbImhcJv8t.jpg",
+      "rating": 5.8
+    },
+    {
+      "id": 217216,
+      "title": "Flor Sem Tempo",
+      "overView": "Finding himself in a new era, approaching retireme…erful artifact doesn't fall into the wrong hands. Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/bclnfDXvx7UydFSk83B258vRRvI.jpg",
+      "rating": 10
+    },
+    {
+      "id": 223129,
+      "title": "I know everything about it!",
+      "overView": "Quiz in which six candidates, each with their own specialism, try to win a large amount of money for a week. In addition to factual knowledge, human knowledge also plays an important role. The participants can challenge each other to a duel and run off with each other's money. Who knows the most and has the best strategy?",
+      "imgUrl": "https://image.tmdb.org/t/p/original/syHeo1w0EK44qTC6sbB2mckuvVN.jpg",
+      "rating": 7
+    },
+    {
+      "id": 114472,
+      "title": "Secret Invasion",
+      "overView": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/3rINdUPSy9AklJg74jWHOyUXuZd.jpg",
+      "rating": 7.9
+    },
+    {
+      "id": 226658,
+      "title": "La Casa de los Famosos Mexico",
+      "overView": "German daily news program, the oldest still existing program on German television.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/uh2NbTkUheENmBlUs7Kwb5EaAXQ.jpg",
+      "rating": 8.3
+    },
+    {
+      "id": 211128,
+      "title": "The Iron Heart",
+      "overView": "An undercover agent goes on a dangerous mission to bring down a crime ring. Fueled by a bitter and painful past, he along with his allies faces the grueling task that will challenge his resolve and strength.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/91V6NI1JXCTDhaSSkoY7T87hk09.jpg",
+      "rating": 7.4
+    },
+    {
+      "id": 134224,
+      "title": "Voltes V: Legacy",
+      "overView": "Voltes V: Legacy follows the story of three brothers, Steve, Big Bert, and Little Jon Armstrong, and their friends Jamie Robinson and Mark Gordon, as they fight the forces of humanoid aliens known as Boazanians who plans to invade the earth and launch their beast fighters all over the world.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/jZ32tdCTFsRoU2GehW6ZzSpTyS1.jpg",
+      "rating": 6.8
+    },
+    {
+      "id": 209085,
+      "title": "Amor Perfeito",
+      "overView": "Sol is a hardworking woman who has the chance to work as a backing vocalist for a funk singer and return to dancing, as she did in her youth. Torn between family pressure and passion for the stage, she must face the judgment of her church's members and conflicts with her family. The new chance will make her reconnect with her past in many ways, leading her to find her great youth love.",
+      "imgUrl": "https://image.tmdb.org/t/p/original/aOPhyvHDauWFuc3rthpHArCNyrm.jpg",
+      "rating": 6.1
+    },
+    {
+      "id": 226411,
+      "title": "Mía es la venganza",
+      "overView": "Mía es la venganza of the original story of three brothers, Steve, Big Bert, and Little Jon",
+      "imgUrl": "https://image.tmdb.org/t/p/original/bReUZMOPDSs4fpONIIQER6X4yNm.jpg",
+      "rating": 6.8
+    }
+  ],
+  "preview": {
+    "id": 758323,
+    "title": "The Ashes 2023. Australia Tour of England",
+    "imgUrl": "https://images.slivcdn.com/videoasset_images/ashes23_3rdtest_gob_portrait_thumb_notext.jpg?h=494&w=344&t=c_fill&q=low&fr=webp",
+    "overView": "Father Gabriele Amorth, Chief Exorcist of the Vati…the Vatican has desperately tried to keep hidden. Barbie and Ken are having the time of their lives …cover the joys and perils of living among humans. A life of an ordinary.",
+    "rating": 7.2
+  }
+}
